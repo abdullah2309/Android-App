@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <img src="https://github.com/abdullah2309/Android-App/blob/main/assets/1.png" width="45%">
+<img src="https://github.com/abdullah2309/Android-App/blob/main/assets/2.png" width="45%">
