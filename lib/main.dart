@@ -91,7 +91,6 @@ class sidbar extends StatelessWidget {
           child: Container(
             width: 400,
             height: 500,
-
             // decoration: BoxDecoration(
             //   color: const Color.fromARGB(97, 237, 237, 237),
             //   borderRadius: BorderRadius.circular(40),
