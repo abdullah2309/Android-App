@@ -86,12 +86,12 @@ class sidbar extends StatelessWidget {
           ),
         ),
 
-        ///////////// End Drawer /////////////////////
+        //////////////////// End Drawer /////////////////////
         body: Center(
           child: Container(
             width: 400,
             height: 500,
-            // decoration: BoxDecoration(
+            // decoration: BoxDecoration( 
             //   color: const Color.fromARGB(97, 237, 237, 237),
             //   borderRadius: BorderRadius.circular(40),
             //   border: Border.all(color: Colors.blue, width: ),
